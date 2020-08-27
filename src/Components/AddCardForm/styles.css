@@ -1,0 +1,18 @@
+.add-card-form {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.add-card-form button.add {
+    width: 150px;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+.add-card-form label {
+    color: white;
+}
